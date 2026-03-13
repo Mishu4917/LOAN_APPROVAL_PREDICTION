@@ -1,6 +1,7 @@
 # 🏦 Loan Approval Predictor — ML + Streamlit App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+LIVE DEMO- https://loanapprovalprediction-kftmkkjlc9swiifefbqy9g.streamlit.app/
 
 An end-to-end machine learning project that predicts loan approvals using XGBoost (~98% accuracy), with a full Streamlit web interface.
 
